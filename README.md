@@ -1,5 +1,7 @@
 # ✍️ SVG Animator — AI Hand‑Drawn SVG Animation Generator
 
+> **This is a demo. It contains no confidential data/IP.**
+
 This is a **single‑page web app** that:
 - Generates **clean SVG** from a natural‑language prompt using an LLM
 - Converts the SVG into a **hand‑drawn / sketch style**
